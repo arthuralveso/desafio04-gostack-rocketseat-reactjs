@@ -18,69 +18,59 @@ export default class PostList extends Component {
             id: 2,
             author: {
               name: "Diego Fernandes",
-              avatar: "https://i.pravatar.cc/150?img=7"
+              avatar: "https://avatars1.githubusercontent.com/u/2254731?s=400&v=4"
             },
-            content: "Possivelmente"
+            content: "A Rocketseat está sempre em busca de novos membros para o time e geralmente ficamos de olho em quem se destaca no Bootcamp. Inclusive 80% do nosso time de devs é composto por alunos do Bootcamp."
           }
         ]
       },
       {
         id: 3,
         author: {
-          name: "Julio Alcantara",
+          name: "Arthur Alves",
           avatar: "https://avatars1.githubusercontent.com/u/43497266?s=460&v=4"
         },
         date: "04 Jun 2019",
-        content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris non est elementum, cursus urna non, varius nunc. Ut fringilla nunc a velit sodales, et eleifend metus consequat. Nam quis purus quis risus auctor tincidunt. Integer quis gravida eros. Ut lobortis mauris eu diam venenatis, id sodales felis sodales. Maecenas malesuada lorem vel dui",
+        content: "Fala galera, beleza? estou fazendo o Bootcamp GoStack da Rocketseat e ta muito bom! Alguem mais ai fazendo?",
         comments: [
           {
             id: 4,
             author: {
-              name: "Diego Fernandes",
+              name: "Gabriel Lisboa",
               avatar: "https://i.pravatar.cc/150?img=61"
             },
-            content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris non est elementum, cursus urna non, varius nunc. Ut fringilla nunc a velit sodales, et eleifend metus consequat. Nam quis purus quis risus auctor tincidunt. Integer quis gravida eros. Ut lobortis mauris eu diam venenatis, id sodales felis sodales. Maecenas malesuada lorem vel dui"
-          }
-        ]
-      },
-      {
-        id: 5,
-        author: {
-          name: "Julio Alcantara",
-          avatar: "https://i.pravatar.cc/150?img=68"
-        },
-        date: "04 Jun 2019",
-        content: "Pessoal, alguém sabe se a Rocketseat está contratando?",
-        comments: [
+            content:"Tambem Estou fazendo o Bootcamp e estou curtindo muito!",
+          },
           {
-            id: 1,
+            id: 5,
             author: {
-              name: "Diego Fernandes",
-              avatar: "https://i.pravatar.cc/150?img=45"
+              name: "João da Silva",
+              avatar: "https://i.pravatar.cc/150?img=70"
             },
-            content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris non est elementum, cursus urna non, varius nunc. Ut fringilla nunc a velit sodales, et eleifend metus consequat. Nam quis purus quis risus auctor tincidunt. Integer quis gravida eros. Ut lobortis mauris eu diam venenatis, id sodales felis sodales. Maecenas malesuada lorem vel dui"
-          }
+            content:"Estou pensando em me inscrever na proxima turma pra ver qual é a desse bootcamp!",
+          },
+          
         ]
       },
       {
         id: 6,
         author: {
-          name: "Julio Alcantara",
-          avatar: "https://i.pravatar.cc/150?img=43"
+          name: "Pedro de Souza",
+          avatar: "https://i.pravatar.cc/150?img=68"
         },
         date: "04 Jun 2019",
-        content: "Pessoal, alguém sabe se a Rocketseat está contratando?",
+        content: "Pessoal, alguém ja concluiu o desafio 4 de ReactJS do bootcamp?",
         comments: [
           {
-            id: 1,
+            id: 7,
             author: {
-              name: "Diego Fernandes",
-              avatar: "https://i.pravatar.cc/150?img=32"
+              name: "Laura Oliveira",
+              avatar: "https://i.pravatar.cc/150?img=45"
             },
-            content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris non est elementum, cursus urna non, varius nunc. Ut fringilla nunc a velit sodales, et eleifend metus consequat. Nam quis purus quis risus auctor tincidunt. Integer quis gravida eros. Ut lobortis mauris eu diam venenatis, id sodales felis sodales. Maecenas malesuada lorem vel dui"
+            content: "Eu terminei, se tiver alguma duvida chama no privado! :D"
           }
         ]
-      }
+      },
     ]
   }
 
